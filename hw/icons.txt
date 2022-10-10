@@ -1,0 +1,30 @@
+sun icon
+<i class="fa-regular fa-sun"></i><br />
+
+sun-cloud
+<i class="fa-regular fa-sun-cloud"></i>
+
+
+cloud
+<i class="fa-regular fa-cloud"></i>
+
+sunny storm
+<i class="fa-solid fa-cloud-bolt-sun"></i>
+
+night storm
+<i class="fa-regular fa-cloud-bolt-moon"></i>
+
+windy
+<i class="fa-solid fa-wind"></i>
+
+snowy
+<i class="fa-light fa-cloud-snow"></i>
+
+rin-sun
+<i class="fa-regular fa-cloud-sun-rain"></i>
+
+cloudy night
+<i class="fa-regular fa-clouds-moon"></i>
+
+rain
+<i class="fa-solid fa-cloud-showers-heavy"></i>
